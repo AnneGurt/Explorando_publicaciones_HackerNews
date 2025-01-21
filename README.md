@@ -7,6 +7,7 @@ En este proyecto, compararé dos tipos diferentes de publicaciones en Hacker New
 Nos interesan las publicaciones que empiezan por "Ask HN", publicaciones en las que el usuario pregunta a la comunidad de Hacker News sobre algún tema específico, y "Show HN" en la que los usuarios enseñan algún proyecto, producto o tema de relevancia.
 
 Compararemos estos dos tipos de publicaciones para determinar lo siguiente:
+test
 
 * ¿Cuál de los dos tipos de publicaciones rebibe en promedio más comentarios?
 * ¿De media, reciben más comentarios las publicaciones creadas en un momento determinado?
